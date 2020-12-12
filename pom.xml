@@ -21,12 +21,14 @@
             <version>5.2.0.RELEASE</version>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/org.springframework/spring-test -->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-test</artifactId>
-            <version>5.2.3.RELEASE</version>
+            <version>5.2.12.RELEASE</version>
             <scope>test</scope>
         </dependency>
+
 
         <dependency>
             <groupId>org.scalatestplus</groupId>
